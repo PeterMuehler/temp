@@ -15,3 +15,6 @@ cp uninstall_Temp.sh /opt/Temp
 
 #creates link with global variable
 ln -s /opt/Temp/Temp.sh /usr/bin/temp
+
+#deletes temp folder after installation
+rm temp -R
