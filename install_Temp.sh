@@ -17,4 +17,5 @@ cp uninstall_Temp.sh /opt/Temp
 ln -s /opt/Temp/Temp.sh /usr/bin/temp
 
 #deletes temp folder after installation
+cd ..
 rm temp -R
