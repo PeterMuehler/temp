@@ -4,7 +4,7 @@
 
 **After downloading this files make the install file executable**<br />
 <br /> cd temp<br />
-chmod +x install_Temp.sh<br />
+sudo chmod +x install_Temp.sh<br />
 ./install_Temp.sh<br /> <br />
 To uninstall:<br/>
 cd /opt/Temp<br/>
