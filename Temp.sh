@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo Chose which dysplaytype do you want to have
-echo 1 five digits, no comma (#####)
-echo 2 two digits, one decimal place (temp=##.#'C)
+echo "Chose which dysplaytype do you want to have"
+echo "1 five digits, no comma (#####)"
+echo "2 two digits, one decimal place (temp=##.#'C)"
 read modus
 
 
