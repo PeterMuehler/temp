@@ -5,8 +5,8 @@
 sudo mkdir /opt/Temp
 
 #make executable
-chmod +x Temp.sh
-chmod +x uninstall_Temp.sh
+sudo chmod +x Temp.sh
+sudo chmod +x uninstall_Temp.sh
 
 #copies file into opt folder
 sudo cp Temp.sh /opt/Temp
@@ -18,4 +18,4 @@ sudo ln -s /opt/Temp/Temp.sh /usr/bin/temp
 
 #deletes temp folder after installation
 cd ..
-rm temp -R
+sudo rm temp -R
