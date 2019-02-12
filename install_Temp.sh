@@ -10,7 +10,7 @@ sudo chmod +x uninstall_Temp.sh
 
 #copies file into opt folder
 sudo cp Temp.sh /opt/Temp
-auso cp uninstall_Temp.sh /opt/Temp
+sudo cp uninstall_Temp.sh /opt/Temp
 
 
 #creates link with global variable
